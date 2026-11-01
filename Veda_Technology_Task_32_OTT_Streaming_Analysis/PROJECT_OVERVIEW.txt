@@ -1,0 +1,4 @@
+RAW OTT CSV -> PYTHON CLEANING -> CLEANED CSV -> EDA NOTEBOOK (7 CHARTS)
+                                          |-> SQL AGGREGATIONS
+                                          |-> EXCEL PIVOT-READY CSV
+                                          |-> CONTENT STRATEGY MEMO
